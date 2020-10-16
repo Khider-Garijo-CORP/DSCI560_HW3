@@ -17,5 +17,5 @@ Successful demos of MyWonder with clients
 
 # Gantt Chart
 <p align="center">
-    <img src="GanttChart.png" width="1000px"/>
+    <img src="GanttChart.png" width="800px"/>
 </p>
