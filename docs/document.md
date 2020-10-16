@@ -16,4 +16,6 @@ MyWonder is a new flatform to quickly perform analyzing big data and visualizing
 Successful demos of MyWonder with clients
 
 # Gantt Chart
-![image](https://github.com/Khider-Garijo-CORP/DSCI560_HW3/blob/main/docs/GanttChart.png)
+<p align="center">
+    <img src="GanttChart.png" width="1000px"/>
+</p>
